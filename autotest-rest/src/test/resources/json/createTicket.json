@@ -1,0 +1,15 @@
+{
+  "id": ${id},
+  "username": "${username}",
+  "title": "${title}",
+  "submitter_email": "${submitter_email}",
+  "status": ${status},
+  "description": "${description}",
+  "resolution": ${resolution},
+  "priority": "${priority}",
+  "last_escalation": ${last_escalation},
+  "secret_key": ${secret_key},
+  "queue": "${queue}",
+  "kbitem": ${kbitem},
+  "merged_to": ${merged_to}
+}
